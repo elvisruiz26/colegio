@@ -1,0 +1,27 @@
+#result {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid #ddd; /* Borde exterior más sutil */
+    margin-bottom: 20px; /* Espacio entre tablas */
+  }
+  
+  th, td {
+    border: 1px solid #ddd; /* Borde interior más sutil */
+    padding: 8px;
+    text-align: left;
+    background-color: white;
+  }
+  
+  th {
+    background-color: #f2f2f2; 
+  }
+  
+  .docente-header {
+    background-color: #e0e0e0;
+    font-weight: bold;
+  }
